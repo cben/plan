@@ -1,6 +1,10 @@
 # plan
-Tracking/researching things I'd like to work on as GH issues
 
+Tracking/researching things I'd like to work on, as GH issues.  A modern take on the Unix `.plan` convention.
+
+Most things here probably will never happen.
+
+[![New issue](https://img.shields.io/badge/-New%20issue-brightgreen.svg?style=plastic)](https://github.com/cben/plan/issues/new)
 
 [![issues](https://img.shields.io/github/issues/cben/plan.svg?label=issues)](https://github.com/cben/plan/issues)
 
